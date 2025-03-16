@@ -69,7 +69,6 @@ function App() {
       }
     }
 
-    // ✅ 关键点：视频元数据加载完成
     const updateVideoParams = () => {
       if (video) {
         setVideoParams({
