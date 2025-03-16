@@ -1,0 +1,242 @@
+{
+    "className": "MuiSlider-rail",
+    "ownerState": {
+        "tabIndex": 1,
+        "slots": {},
+        "value": 1735142401317,
+        "min": 1735142400000,
+        "max": 1735142700000,
+        "segmentInfoList": [
+            {
+                "detail": {
+                    "label": "1"
+                },
+                "name": "Cycle 1",
+                "color": "#FF9840",
+                "start": 1735142400600,
+                "end": 1735142413300,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "2"
+                },
+                "name": "Cycle 2",
+                "color": "#FF9840",
+                "start": 1735142413300,
+                "end": 1735142427600,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "3"
+                },
+                "name": "Cycle 3",
+                "color": "#FF9840",
+                "start": 1735142427600,
+                "end": 1735142441000,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "4"
+                },
+                "name": "Cycle 4",
+                "color": "#FF9840",
+                "start": 1735142441000,
+                "end": 1735142463900,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "5"
+                },
+                "name": "Cycle 5",
+                "color": "#FF9840",
+                "start": 1735142463900,
+                "end": 1735142478200,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "6"
+                },
+                "name": "Cycle 6",
+                "color": "#FF9840",
+                "start": 1735142478200,
+                "end": 1735142484000,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "7"
+                },
+                "name": "Cycle 7",
+                "color": "#FF9840",
+                "start": 1735142484000,
+                "end": 1735142492600,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "8"
+                },
+                "name": "Cycle 8",
+                "color": "#FF9840",
+                "start": 1735142492600,
+                "end": 1735142516900,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "9"
+                },
+                "name": "Cycle 9",
+                "color": "#FF9840",
+                "start": 1735142516900,
+                "end": 1735142534200,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "10"
+                },
+                "name": "Cycle 10",
+                "color": "#FF9840",
+                "start": 1735142534200,
+                "end": 1735142546300,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "11"
+                },
+                "name": "Cycle 11",
+                "color": "#FF9840",
+                "start": 1735142546300,
+                "end": 1735142558100,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "12"
+                },
+                "name": "Cycle 12",
+                "color": "#FF9840",
+                "start": 1735142558100,
+                "end": 1735142579400,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "13"
+                },
+                "name": "Cycle 13",
+                "color": "#FF9840",
+                "start": 1735142579400,
+                "end": 1735142591300,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "14"
+                },
+                "name": "Cycle 14",
+                "color": "#FF9840",
+                "start": 1735142591300,
+                "end": 1735142606800,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "15"
+                },
+                "name": "Cycle 15",
+                "color": "#FF9840",
+                "start": 1735142606800,
+                "end": 1735142618500,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "16"
+                },
+                "name": "Cycle 16",
+                "color": "#FF9840",
+                "start": 1735142618500,
+                "end": 1735142632800,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "17"
+                },
+                "name": "Cycle 17",
+                "color": "#FF9840",
+                "start": 1735142632800,
+                "end": 1735142641900,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "18"
+                },
+                "name": "Cycle 18",
+                "color": "#FF9840",
+                "start": 1735142641900,
+                "end": 1735142656000,
+                "shouldShowPrefixStamp": false
+            },
+            {
+                "detail": {
+                    "label": "19"
+                },
+                "name": "Cycle 19",
+                "color": "#FF9840",
+                "start": 1735142656000,
+                "end": 1735142672500,
+                "shouldShowPrefixStamp": false
+            }
+        ],
+        "markInfoList": [
+            {
+                "markTypeSet": {}
+            }
+        ],
+        "marks": [
+            {
+                "value": 1735142400600,
+                "label": "1"
+            },
+            {
+                "value": 1735142413300,
+                "label": "2"
+            },
+            {
+                "value": 1735142414000,
+                "label": "3"
+            },
+            {
+                "value": 1735142415500,
+                "label": "4"
+            },
+            {
+                "value": 1735142416600,
+                "label": "5"
+            }
+        ],
+        "className": "css-q848i0",
+        "isRtl": false,
+        "disabled": false,
+        "disableSwap": false,
+        "orientation": "horizontal",
+        "color": "primary",
+        "size": "medium",
+        "step": 1,
+        "track": "normal",
+        "valueLabelDisplay": "off",
+        "marked": true,
+        "dragging": false,
+        "focusedThumbIndex": -1
+    }
+}

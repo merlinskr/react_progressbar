@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+
+    .video-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+
+        &-main {
+            width: 100%;
+
+            video {
+                width: 100%;
+            }
+        }
+
+        &-controls {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+
+            .progress-tag {
+                position: absolute;
+                background: blue;
+                color: #fff;
+                padding: 5px 0;
+                cursor: pointer;
+                transform: translate3d(-50%, 0, 0);
+            }
+        }
+
+    }
+}
